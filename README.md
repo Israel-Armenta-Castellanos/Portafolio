@@ -1,12 +1,13 @@
 <h1>Portafolio implementado en HTML y CSS</h1>
 📌 Contenido del Curso
-- Fundamentos de HTML
+Fundamentos de HTML
 
 - Estructura básica de una página web
 - Etiquetas esenciales: encabezados, párrafos, listas, enlaces, imágenes
 - Formularios y tablas
 - Uso de semántica en HTML
-- Fundamentos de CSS
+
+Fundamentos de CSS
 
 - Selectores y propiedades básicas
 - Colores, fuentes y fondo
