@@ -1,6 +1,7 @@
 <h1>Portafolio implementado en HTML y CSS</h1>
 Contenido del Curso:
 
+
 Fundamentos de HTML
 
 - Estructura básica de una página web
