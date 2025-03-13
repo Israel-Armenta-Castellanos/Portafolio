@@ -19,4 +19,5 @@ Fundamentos de CSS
 - Proyecto Final
 
 Creación de una página web desde cero aplicando lo aprendido
+
 Enlace: https://israel-armenta-castellanos.github.io/Portafolio/
